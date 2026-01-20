@@ -1,68 +1,72 @@
-Rahul Chandavolu – Data Analyst Portfolio
-About
+# Rahul Chandavolu – Data Analyst Portfolio
 
-Hi, I’m Rahul Chandavolu, a data analytics graduate with hands-on experience working with real-world datasets using Excel and R.
+## About
 
-I have a strong interest in understanding customer behavior, identifying business trends, and transforming raw data into actionable insights. Through academic projects and self-driven learning, I have developed a solid foundation in data cleaning, exploratory data analysis (EDA), data visualization, and business-focused analytics.
+Hi, I’m **Rahul Chandavolu**, a data analytics graduate with hands-on experience working with real-world datasets using **Excel and R**.
+
+I have a strong interest in understanding customer behavior, identifying business trends, and transforming raw data into actionable insights. Through academic projects and self-driven learning, I have developed a solid foundation in **data cleaning, exploratory data analysis (EDA), data visualization, and business-focused analytics**.
 
 This repository is created to showcase my analytics projects, share my work, and track my progress in Data Analytics.
 
-Table of Contents
+---
 
-About
+## Table of Contents
 
-Portfolio Projects
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - [R](#r)
+    - [Customer Segmentation & Recommendation Analysis](#customer-segmentation--recommendation-analysis)
+  - [Excel / Google Sheets](#excel--google-sheets)
+    - [Excel Sales Dashboard](#excel-sales-dashboard)
+- [Contact](#contact)
 
-R
+---
 
-Customer Segmentation & Recommendation Analysis
+## Portfolio Projects
 
-Excel / Google Sheets
+### R
 
-Excel Sales Dashboard
+#### Customer Segmentation & Recommendation Analysis
 
-Contact
+**Goal:**  
+To segment customers based on purchasing behavior and generate insights that support targeted marketing.
 
-Portfolio Projects
+**Description:**  
+This project analyzes customer transaction data to identify meaningful customer segments. It includes data cleaning, exploratory data analysis, and segmentation techniques to understand customer behavior.
 
-In this section, I list my data analytics projects with a brief overview of the problem, tools used, and insights generated.
+**Skills:**  
+Data cleaning, EDA, customer segmentation, clustering, visualization
 
-Customer Segmentation & Recommendation Analysis
-
-Goal:
-To segment customers based on purchasing behavior and generate insights that can support targeted marketing strategies.
-
-Description:
-This project analyzes customer transaction data to identify meaningful customer segments. The analysis includes data cleaning, exploratory data analysis, and clustering techniques to understand spending patterns and customer behavior.
-
-Skills:
-Data cleaning, exploratory data analysis, customer segmentation, clustering, data visualization
-
-Technology:
+**Technology:**  
 R, Tidyverse, ggplot2
 
-📂 Project Folder:
-Customer-Segmentation-Recommendation-R
+📂 Project Folder:  
+[Customer-Segmentation-Recommendation-R](./Customer-Segmentation-Recommendation-R)
 
-Excel Sales Dashboard
+---
 
-Goal:
+### Excel / Google Sheets
+
+#### Excel Sales Dashboard
+
+**Goal:**  
 To analyze sales performance and create an interactive dashboard for business reporting.
 
-Description:
-This project focuses on analyzing sales data using Excel. It includes data cleaning, KPI calculations, pivot tables, and dashboard creation to track revenue trends and product performance.
+**Description:**  
+This project focuses on analyzing sales data using Excel and presenting insights through a dashboard.
 
-Skills:
-Data cleaning, KPI analysis, dashboard design, business reporting
+**Skills:**  
+Data cleaning, KPI analysis, pivot tables, dashboard design
 
-Technology:
+**Technology:**  
 Microsoft Excel
 
-📂 Project Folder:
-Excel-Sales-Dashboard
+📂 Project Folder:  
+[Excel-Sales-Dashboard](./Excel-Sales-Dashboard)
 
-Contact
+---
 
-LinkedIn: https://www.linkedin.com/in/29ramach
+## Contact
 
-Email: rahulchandavolu1999@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/29ramach  
+- **Email:** rahulchandavolu1999@gmail.com
