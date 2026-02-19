@@ -64,6 +64,13 @@ Microsoft Excel
 📂 Project Folder:  
 [Excel-Sales-Dashboard](./Excel-Sales-Dashboard)
 
+### Python / SQL
+#### Food Price Inflation Analysis (1974–2026)
+**Goal:** Analyze 50 years of USDA PPI data to identify food inflation trends and volatility patterns.
+**Skills:** Data cleaning, EDA, trend analysis, decade comparisons
+**Technology:** Python (Pandas, Matplotlib)
+📂 Project: [food-price-inflation-analysis](https://github.com/rahulch-cloud/food-price-inflation-analysis)
+
 ---
 
 ## Contact
